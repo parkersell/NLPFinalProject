@@ -1,0 +1,5 @@
+**.ckpt
+**jsonAll*
+**.pyc
+**/__pycache__/**
+**.pynb_checkpoints/**
